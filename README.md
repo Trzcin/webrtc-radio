@@ -15,7 +15,7 @@ This projects consists of a desktop studio app, used for streaming audio and com
 - **Spotify Integration**
   - From the studio app you can search for songs on Spotify and display them as metadata on all connected web clients. <br />
     ![Spotify Search](./git-assets/SpotifySearch.png)
-  - From the web app, when you click on the Spotify icon, you will be redirected the their login page.
+  - From the web app, when you click on the Spotify icon, you will be redirected to their login page.
     After successfully authenticating, you will be able to save any song you want from the audition to a special playlist. When a song is saved, the button turns green.
 - **Questions from listeners**
   - From the web client you can click the `Ask a Question` button, type one in, and press enter.
